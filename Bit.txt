@@ -1,0 +1,9 @@
+What is Bit Manuplation ?
+Bit Manuplation Is a fundamental Procee that one of number code havin bits.
+
+What is Types of Bit Manuplation?
+Where are more Types of Bit Manuplation but mainly used in java programming languase 4 typse.
+1. Git Bit Manuplation ... It use the Bit Marks code fist . And Use Ogical operator & with given original code bits.
+2. set bit 
+3. clear Bit
+4. Update bit,
